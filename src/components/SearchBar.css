@@ -1,0 +1,25 @@
+.search-bar {
+    border: 1px solid lightgray;
+    padding: 10px;
+    margin-bottom: 30px;
+    background-color: sienna;
+}
+.search-bar form {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+input {
+    width: 60%;
+    height: 30px;
+    font-size: 16px;
+    align-self: center;
+}
+h1 {
+    display: flex;
+    justify-content: center;
+    color: white;
+}
+body {
+    margin: 0;
+}
